@@ -1,4 +1,4 @@
-# Delete Empty Media Subdirectories
+# CleanSweep
 
 This script removes empty subdirectories from specified directories that do not contain video files.
 
@@ -8,7 +8,7 @@ This script removes empty subdirectories from specified directories that do not 
 2. Open a terminal and navigate to the directory containing the script.
 3. Make the script executable by running:
    ```bash
-   chmod +x delete_empty_media_subdirs.sh
+   chmod +x CleanSweep.sh
    ```
 4. Execute the script with the required arguments.
 
